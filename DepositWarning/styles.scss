@@ -1,0 +1,17 @@
+:global {
+    .desposit-root {
+        > h3 {
+            background-color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 30px;
+            margin-bottom: 10px;
+        }
+        .tip-text {
+            margin-top: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+    }
+}
